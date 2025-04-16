@@ -2,8 +2,8 @@
     display: grid;
     column-gap: 14px;
     row-gap: 14px;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 400px));
-    margin-top: 50px;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 350px));
+    margin-top: 10px;
     justify-content: space-around;
 }
 
